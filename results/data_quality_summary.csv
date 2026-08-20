@@ -1,0 +1,4 @@
+population,rows,age_below_18,age_above_80,avgexp_zero,exp_inc_zero
+accepted,994,5,1,21,0
+rejected,291,1,1,291,291
+new_applicants,34,1,0,34,34
