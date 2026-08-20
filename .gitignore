@@ -1,0 +1,30 @@
+# Raw academic data
+data/DatosPractica_Scoring.xlsx
+data/*.xlsx
+
+# Models / serialized artifacts
+*.joblib
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
